@@ -2,6 +2,11 @@
 # Create By DEV HTTP-CUSTOM
 
 ## installer udp-custom server side already tested on ubuntu 20.04-x64 ##
+## sebelum install jalankan perintah ini
+```
+mkdir /etc/udpp
+```
+# comand install
 
 ```
 wget "https://raw.githubusercontent.com/VPN-EXECUTIVE/UDP-TUNNEL/main/udp-tunnel.sh" -O install-udp && chmod +x install-udp && ./install-udp
