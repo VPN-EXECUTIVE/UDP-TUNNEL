@@ -20,6 +20,8 @@ wget "https://raw.githubusercontent.com/VPN-EXECUTIVE/UDP-TUNNEL/main/udp-tunnel
  * gunakan opsional pengecualian port jika port antara 1-65535 sudah digunakan oleh tool udp lainnya, seperti badvpn, ovpn udp dan lain-lain.[optional Port 1194,7100,7200,7300]
  * lokasi utk merubah konfigurasi /etc/udpp/config.json, setelah dirubah kemudian reboot
 
+# Catatan User
+Untuk User Dan Pasword Awal Adalah jagoanneon
 # Credit
  * [ePro_Dev_Team](https://t.me/ePro_Dev_Team/135)
  
